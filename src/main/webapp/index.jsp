@@ -9,6 +9,7 @@
 <body style="background-color: pink">
 	<div style="background-color:lightblue" style="broder-radius:2px " style="margin-left:500px" style="">
 	<h2 style="text-align:center" >WELCOME TO MY JSP WEBSITE IT IS NOT HTML! :(</h2>
+	<h2 style="text-align:center" >RUNNING ON TOMCAT SERVER :)</h2>
 	
 	</div>
 </body>
